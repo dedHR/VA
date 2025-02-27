@@ -104,3 +104,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.counters {
+    position: fixed; /* Фиксирует элемент на экране */
+    bottom: 0px; /* Отступ от нижнего края */
+    right: 0px; /* Отступ от правого края */
+    z-index: 0;
+} 
