@@ -185,6 +185,7 @@ footer {
     bottom: 49px; /* Отступ от нижнего края экрана */
     right: 1px; /* Отступ от правого края экрана */
     z-index: 999;
+    display: none;
 }
 
 /* display: none; */
